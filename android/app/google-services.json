@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "505146379797",
+    "project_id": "thehaji-hayubi-test",
+    "storage_bucket": "thehaji-hayubi-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505146379797:android:406bbeecc4ac1d6a46881c",
+        "android_client_info": {
+          "package_name": "test.flutterflow.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505146379797-3upbbu71h5e7pbioaathki5c6b927m50.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "test.flutterflow.com",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "505146379797-epp7dcf7neqli1d2esfujnflgedctkra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHIK6kEhs0Sa79us7ncawecOddOeUh7a0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505146379797-94ocug0gfd1tl4folnt2b600ebsvvbu6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "505146379797-615mcd3g5m0ghf2g9u6hbe2ctq5un75p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.databasetest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

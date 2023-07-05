@@ -1,0 +1,46 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "jobs",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "jobType",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "applyDate",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "jobs",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "position",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "createDate",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "posts",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "post_type",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "time_posted",
+          "order": "DESCENDING"
+        }
+      ]
+    }
+  ]
+}

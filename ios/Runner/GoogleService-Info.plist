@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>505146379797-j5f2e9b122107b649tj75g7dln4og5qg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.505146379797-j5f2e9b122107b649tj75g7dln4og5qg</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>505146379797-3upbbu71h5e7pbioaathki5c6b927m50.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAFlJjFl0IYINJDOAX_RxgnlsuFnWee53g</string>
+	<key>GCM_SENDER_ID</key>
+	<string>505146379797</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>test.flutterflow.com</string>
+	<key>PROJECT_ID</key>
+	<string>thehaji-hayubi-test</string>
+	<key>STORAGE_BUCKET</key>
+	<string>thehaji-hayubi-test.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:505146379797:ios:10adf7de5a32d78846881c</string>
+</dict>
+</plist>
